@@ -160,7 +160,7 @@ Projekt edukacyjny - wolne użytkowanie dla celów akademickich.
 ## 👤 Autor
 
 Sebastian Cnotalski
-- GitHub: [@twoj-username](https://github.com/twoj-username)
+- GitHub: [https://github.com/sebcno0001]
 
 ---
 

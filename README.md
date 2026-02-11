@@ -145,18 +145,6 @@ ORDER BY it.Data_transakcji DESC;
 - **15 transakcji** (sprzedaż/kupno)
 - **15 napraw** z częściami zamiennymi
 
-## 🎓 Kontekst akademicki
-
-Projekt stworzony w ramach kursu **Bazy Danych** (Semestr 3).
-
-### Zrealizowane cele:
-- ✅ Projektowanie relacyjnej bazy danych
-- ✅ Implementacja kluczy obcych (Foreign Keys)
-- ✅ Normalizacja do 3NF
-- ✅ Ograniczenia integralności danych
-- ✅ Relacje jeden-do-wielu i jeden-do-jednego
-- ✅ Relacje wiele-do-wielu (nr_telefonu)
-- ✅ Hierarchia danych (pracownicy-przełożeni)
 
 ## 🛠️ Technologie
 
